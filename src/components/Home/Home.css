@@ -1,15 +1,19 @@
 .home-component {
+    margin-top: 50px;
     display: flex;
 }
 
 .site-details {
     font-size: xx-large;
     font-weight: 900;
+    margin-right: 100px;
+
 
 }
 
+/* 
 .site-image {
     width: "50 px";
     height: "50 px";
     overflow: hidden;
-}
+} */

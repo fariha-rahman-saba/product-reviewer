@@ -3,6 +3,10 @@ import useReviews from '../../hooks/useReviews';
 import SingleReview from '../SingleReview/SingleReview';
 import './HomeReview.css'
 
+// var buttonStyle = {
+//     textAlign: "center"
+// }
+
 const HomeReview = () => {
     const [reviews] = useReviews();
     const threeReviews = reviews.slice(3);
