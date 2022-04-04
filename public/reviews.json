@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Morgan",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Eva",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Simita",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    },
+    {
+        "id": 5,
+        "name": "Happy",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "name": "Mitsuha",
+        "image": "https://www.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_9723881.htm#query=user&position=3&from_view=search",
+        "review": "This camera is just amazing",
+        "rating": 4.5
+    }
+]

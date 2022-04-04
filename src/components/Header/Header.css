@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+
+}
+
+.link {
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: orange;
+}

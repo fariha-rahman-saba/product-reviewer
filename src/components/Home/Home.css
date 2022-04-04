@@ -1,0 +1,15 @@
+.home-component {
+    display: flex;
+}
+
+.site-details {
+    font-size: xx-large;
+    font-weight: 900;
+
+}
+
+.site-image {
+    width: "50 px";
+    height: "50 px";
+    overflow: hidden;
+}

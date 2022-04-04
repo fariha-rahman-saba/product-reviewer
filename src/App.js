@@ -7,10 +7,11 @@ import Reviews from './components/Reviews/Reviews';
 import Dashboard from './components/Dashboard/Dashboard';
 import Blogs from './components/Blogs/Blogs';
 import About from './components/About/About';
+import HomeReview from './components/HomeReview/HomeReview';
 
 function App () {
   return (
-    <div className="App">
+    <div>
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
@@ -21,6 +22,8 @@ function App () {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/*' element={<Notfound></Notfound>}></Route>
       </Routes>
+
+      <HomeReview></HomeReview>
     </div>
   );
 }
