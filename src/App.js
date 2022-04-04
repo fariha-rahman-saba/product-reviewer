@@ -23,7 +23,7 @@ function App () {
         <Route path='/*' element={<Notfound></Notfound>}></Route>
       </Routes>
 
-      <HomeReview></HomeReview>
+
     </div>
   );
 }

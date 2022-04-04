@@ -6,11 +6,12 @@ import './HomeReview.css'
 const HomeReview = () => {
     const [reviews] = useReviews();
     const threeReviews = reviews.slice(3);
-    // console.log(threeReviews);
     return (
         <div>
             <h1 className='title'>Customer Reviews(3)</h1>
-            {threeReviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)}
+            <div className='reviews'>
+                {threeReviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)}
+            </div>
             <button>See All Reviews</button>
         </div>
     );
