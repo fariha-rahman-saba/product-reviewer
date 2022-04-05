@@ -19,7 +19,7 @@ const Home = () => {
                 <div className='site-details'>
                     <h1>Your Next Camera <br />
                         <span style={styles}> Your Best Camera</span></h1>
-                    <p style={textStyles}>Meet the world's fastest autofocus. The a6000 is a superb hybrid camera offering the quality of an interchangeable lens camera and ultra-fast shutter speed.</p>
+                    <p style={textStyles}>Meet the world's fastest autofocus. The a6000 is a superb hybrid camera offering the quality of an interchangeable lens camera and ultra-fast shutter speed. 4D FOCUS enables superior autofocus performance in four dimensions: wide autofocus coverage (2D height and width), fast autofocus speed (3D depth) and enhanced predictive tracking (4D time).</p>
                 </div>
                 <div className='site-image'>
                     <img src="https://www.startech.com.bd/image/cache/catalog/dslr-camera/sony/%20alpha-a6000/a6000-500x500.jpg" alt="" />

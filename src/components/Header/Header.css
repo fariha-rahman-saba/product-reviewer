@@ -5,7 +5,9 @@
 .link {
     margin-left: 20px;
     text-decoration: none;
-    display: flex;
+    display: "inline-flex";
+    font-weight: 600;
+
 }
 
 .link:hover {
