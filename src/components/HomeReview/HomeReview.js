@@ -1,11 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import SingleReview from '../SingleReview/SingleReview';
 import './HomeReview.css'
 
-// var buttonStyle = {
-//     textAlign: "center"
-// }
+var buttonStyle = {
+    textAlign: "center"
+}
 
 const HomeReview = () => {
     const [reviews] = useReviews();
@@ -16,7 +17,9 @@ const HomeReview = () => {
             <div className='reviews'>
                 {threeReviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)}
             </div>
-            <button>See All Reviews</button>
+            <div style={buttonStyle}>
+                <Link className='link' to="/reviews">SEE ALL REVIEWS →</Link>
+            </div>
         </div>
     );
 };
