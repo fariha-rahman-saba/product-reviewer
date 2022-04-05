@@ -1,13 +1,14 @@
 .header {
-    text-align: center;
-
+    display: flex;
 }
 
 .link {
     margin-left: 20px;
     text-decoration: none;
+    display: flex;
 }
 
 .link:hover {
     color: orange;
+
 }

@@ -1,5 +1,8 @@
 .charts {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(2, 6fr);
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    text-align: center;
     margin-top: 100px;
 }
