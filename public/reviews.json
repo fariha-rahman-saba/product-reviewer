@@ -2,43 +2,43 @@
     {
         "id": 1,
         "name": "Alex",
-        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
+        "image": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?t=st=1649156379~exp=1649156979~hmac=2289bbe47e845f7b7a6400a96defae0d9b70c88bf26724aa4ce5383c34db950c&w=900",
         "review": "This camera is just amazing",
         "rating": 4.5
     },
     {
         "id": 2,
         "name": "Morgan",
-        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
-        "review": "This camera is just amazing",
-        "rating": 4.5
+        "image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?t=st=1649156379~exp=1649156979~hmac=f9105a4809f4d056d2a789b5709507ad93160a6d820bff4927f0ca8a0c68a8e3&w=900",
+        "review": "The autofocus feature is super fast!",
+        "rating": 4.2
     },
     {
         "id": 3,
         "name": "Eva",
         "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
-        "review": "This camera is just amazing",
-        "rating": 4.5
+        "review": "Accessories are limited.",
+        "rating": 3.5
     },
     {
         "id": 4,
         "name": "Simita",
-        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
-        "review": "This camera is just amazing",
-        "rating": 4.5
+        "image": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?t=st=1649156379~exp=1649156979~hmac=a684dca544dd9b1871626fe3d086c528a43ead1df7079523e3f00b0334612cf9&w=900",
+        "review": "This camera works best with 16-50mm kit lens",
+        "rating": 4.0
     },
     {
         "id": 5,
         "name": "Mahira",
-        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
-        "review": "This camera is just amazing",
-        "rating": 4.5
+        "image": "https://img.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg?t=st=1649156379~exp=1649156979~hmac=834ae201f1ec4d1f42e5d2bd9a91b91330e760a74b7d7c816a90a638d7842df9&w=900",
+        "review": "This the best camera available on budget.",
+        "rating": 4.1
     },
     {
         "id": 6,
-        "name": "Mitsuha",
-        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=900&t=st=1649079714~exp=1649080314~hmac=63f866753a24292b79bdf640685408eaf6a34aacf7fb8ad07a1430a394323955",
-        "review": "This camera is just amazing",
-        "rating": 4.5
+        "name": "Takikun",
+        "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?t=st=1649156379~exp=1649156979~hmac=936f24a0fd58baaaf2988d308dede614c543ee2fc9e873898557727dcc6b9199&w=900",
+        "review": "Best for outdoor shooting. Not recomended for indoor shoot",
+        "rating": 3.8
     }
 ]
