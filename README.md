@@ -1,5 +1,5 @@
 # Product Analysis Website
-### live website link: https://product-reviewer.netlify.app/
+### Live website link: https://product-reviewer.netlify.app/
 ***
 ## Technologies:
 A list of technologies used within the project:
